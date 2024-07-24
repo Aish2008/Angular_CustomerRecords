@@ -1,6 +1,6 @@
 Softwares Required:
 1. IntelliJ IDEA 2024.1.4 (Note: Community Edition doesn't allow working with databases)
-2. Visual Studio Code 18.1.1
+2. Visual Studio Code 18.1.1 (Try an older version as the new one is a standalone one without app.module.ts file)
 3. MySQL Workbench 8.0 CE (MySQL Installer)
 4. Postman 11.5.0
 5. Git
