@@ -1,0 +1,7 @@
+Pushed the other sample project by opening the cmd from the location 
+git init
+git add .
+git commit -m  main
+git branch -M main
+git remote add origin https://github.com/Aish2008/Angular_CustomerRecords.git
+git push -u origin
